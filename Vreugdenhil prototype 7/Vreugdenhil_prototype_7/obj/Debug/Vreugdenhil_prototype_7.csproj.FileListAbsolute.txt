@@ -13,11 +13,8 @@ C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhi
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.App.xaml.g.cs
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.dll
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.pdb
-C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.dll.mdb
-C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\bin\Debug\Vreugdenhil_prototype_7.dll.mdb
-C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.dll.mdb
-C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\bin\Debug\Vreugdenhil_prototype_7.dll.mdb
-C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.dll.mdb
-C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\bin\Debug\Vreugdenhil_prototype_7.dll.mdb
+C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.Login.xaml.g.cs
+C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.Register.xaml.g.cs
+C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.RegisterSucces.xaml.g.cs
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\obj\Debug\Vreugdenhil_prototype_7.dll.mdb
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7\bin\Debug\Vreugdenhil_prototype_7.dll.mdb

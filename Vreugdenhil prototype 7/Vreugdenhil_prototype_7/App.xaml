@@ -3,8 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Vreugdenhil_prototype_7.App">
   <Application.Resources>
-
-    <!-- Application resource dictionary -->
-
+    <ResourceDictionary>
+      <Color x:Key="Test">#215cba</Color>
+      <Color x:Key="DarkBlue">#215cba</Color>
+      <Style x:Key="LabelStyle1" TargetType="Label">
+        <Setter Property="HorizontalOptions" Value="Center" />
+        <Setter Property="TextColor" Value="{StaticResource DarkBlue}" />
+      </Style>
+    </ResourceDictionary>
   </Application.Resources>
 </Application>

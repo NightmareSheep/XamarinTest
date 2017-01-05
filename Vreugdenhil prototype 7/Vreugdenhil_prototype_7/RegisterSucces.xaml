@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Vreugdenhil_prototype_7.RegisterSucces">
+  <ScrollView>
+    <StackLayout>
+      <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
+        <!-- top controls -->
+        <Image Source="icon.png" Margin="0,20,0,10" />
+        <Label HorizontalTextAlignment="Center" Scale="1.5">U bent aangemeld!</Label>
+        <Label HorizontalTextAlignment="Center" Scale="1.5" LineBreakMode="WordWrap">U kunt uw inloggegevens binnenkort in uw inbox verwachten</Label>
+      </StackLayout>
+
+      <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand">
+        <!-- bottom controls -->
+        <Button x:Name="ToLogin" Text="Terug naar inloggen" BackgroundColor="Transparent" TextColor="Black" HeightRequest="75" Clicked="ToLogin_OnClicked"/>
+      </StackLayout>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

@@ -13,7 +13,7 @@ namespace Vreugdenhil_prototype_7
         {
             InitializeComponent();
 
-            MainPage = new Vreugdenhil_prototype_7.MainPage();
+            MainPage = new NavigationPage(new Login());
         }
 
         protected override void OnStart()
