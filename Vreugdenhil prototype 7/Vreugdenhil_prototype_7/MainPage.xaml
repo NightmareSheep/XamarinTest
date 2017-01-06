@@ -3,9 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Vreugdenhil_prototype_7"
              x:Class="Vreugdenhil_prototype_7.MainPage">
-
-  <Label Text="Welcome to Xamarin Forms!"
-           VerticalOptions="Center"
-           HorizontalOptions="Center" />
+  <ListView x:Name="ArticleListView" HasUnevenRows="True">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <ViewCell>
+          <StackLayout Orientation="Vertical" BackgroundColor="White">
+            <Label Text="{Binding Title}"/>
+            <BoxView HeightRequest="1" Color="Red" VerticalOptions="Fill" />
+            <Label Text="-> LEES MEER"/>
+          </StackLayout>
+        </ViewCell>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
 
 </ContentPage>

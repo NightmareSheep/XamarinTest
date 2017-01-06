@@ -39,7 +39,6 @@ C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhi
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\obj\Debug\R.cs.flag
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\obj\Debug\uploadflags.txt
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\bin\Debug\Vreugdenhil_prototype_7.Droid.dll.mdb
-C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\bin\Debug\Vreugdenhil_prototype_7.dll.mdb
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\bin\Debug\Java.Interop.dll.mdb
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\bin\Debug\Mono.Android.dll.mdb
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\bin\Debug\mscorlib.dll.mdb
@@ -51,6 +50,7 @@ C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhi
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\bin\Debug\System.Xml.dll.mdb
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\bin\Debug\Vreugdenhil_prototype_7.dll.mdb
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
 C:\Web\VreugdenhilApp\Vreugdenhil prototype 7\Vreugdenhil prototype 7\Vreugdenhil_prototype_7.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb

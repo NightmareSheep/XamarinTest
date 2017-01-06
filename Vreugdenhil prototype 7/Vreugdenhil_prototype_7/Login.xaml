@@ -14,7 +14,7 @@
         <!-- bottom controls -->
         <Entry Placeholder="Email"/>
         <Entry Placeholder="Wachtwoord"/>
-        <Button Style="{StaticResource ButtonStyle1}" Text="Inloggen" />
+        <Button Style="{StaticResource ButtonStyle1}" Text="Inloggen" x:Name="LoginButtuon"  Clicked="LoginButtuon_OnClicked"/>
         <Button Style="{StaticResource ButtonStyle2}" Text="Wachtwoord vergeten"/>
         <Button Style="{StaticResource ButtonStyle2}" x:Name="Register" Text="Registreren" Clicked="OnRegister"/>
       </StackLayout>

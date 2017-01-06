@@ -17,7 +17,7 @@ namespace Vreugdenhil_prototype_7
 
         async void ToLogin_OnClicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Login());
+            await Navigation.PopToRootAsync();
         }
     }
 }

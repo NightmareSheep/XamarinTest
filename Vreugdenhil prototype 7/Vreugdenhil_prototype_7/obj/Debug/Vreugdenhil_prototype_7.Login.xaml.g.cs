@@ -17,11 +17,15 @@ namespace Vreugdenhil_prototype_7 {
     public partial class Login : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button LoginButtuon;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Button Register;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(Login));
+            LoginButtuon = this.FindByName<global::Xamarin.Forms.Button>("LoginButtuon");
             Register = this.FindByName<global::Xamarin.Forms.Button>("Register");
         }
     }

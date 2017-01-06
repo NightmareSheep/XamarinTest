@@ -19,5 +19,11 @@ namespace Vreugdenhil_prototype_7
         {
             await Navigation.PushAsync(new Register());
         }
+
+        async void LoginButtuon_OnClicked(object sender, EventArgs e)
+        {
+            Navigation.InsertPageBefore(new MainPage(), this);
+            await Navigation.PopAsync();
+        }
     }
 }
