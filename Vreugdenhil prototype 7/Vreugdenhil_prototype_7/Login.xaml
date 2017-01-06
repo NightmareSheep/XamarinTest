@@ -3,22 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Vreugdenhil_prototype_7.Login">
   <ContentPage.BackgroundColor>White</ContentPage.BackgroundColor>
-  <ContentPage.Padding>20,20,20,20</ContentPage.Padding>
-  <ScrollView>
+  <ScrollView Style="{StaticResource LayoutStyle1}">
     <StackLayout>
       <StackLayout Orientation="Vertical" VerticalOptions="Start">
-        <!-- top controls -->
-        <Image Source="icon.png" Margin="0,20,0,10" />
-        <Label HorizontalTextAlignment="Center" Scale="1.5">Inloggen</Label>
+        <Image Source="icon.png"/>
+        <Label Style="{StaticResource LabelStyle1}">Inloggen</Label>
       </StackLayout>
 
       <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand">
         <!-- bottom controls -->
         <Entry Placeholder="Email"/>
         <Entry Placeholder="Wachtwoord"/>
-        <Button Text="Inloggen" BackgroundColor="#215cba" TextColor="White" HeightRequest="75"/>
-        <Button Text="Wachtwoord vergeten" BackgroundColor="Transparent" TextColor="Black" HeightRequest="75"/>
-        <Button x:Name="Register" Text="Registeren" BackgroundColor="Transparent" TextColor="Black" HeightRequest="75" Clicked="OnRegister"/>
+        <Button Style="{StaticResource ButtonStyle1}" Text="Inloggen" />
+        <Button Style="{StaticResource ButtonStyle2}" Text="Wachtwoord vergeten"/>
+        <Button Style="{StaticResource ButtonStyle2}" x:Name="Register" Text="Registreren" Clicked="OnRegister"/>
       </StackLayout>
     </StackLayout>
   </ScrollView>

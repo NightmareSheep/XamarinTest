@@ -13,7 +13,11 @@ namespace Vreugdenhil_prototype_7
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new Login());
+            MainPage = new NavigationPage(new Login())
+            {
+                BackgroundColor = Color.Transparent,
+                BarTextColor = new Color(66, 134, 244)
+            };
         }
 
         protected override void OnStart()

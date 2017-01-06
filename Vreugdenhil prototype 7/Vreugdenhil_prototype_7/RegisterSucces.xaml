@@ -6,14 +6,14 @@
     <StackLayout>
       <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
         <!-- top controls -->
-        <Image Source="icon.png" Margin="0,20,0,10" />
-        <Label HorizontalTextAlignment="Center" Scale="1.5">U bent aangemeld!</Label>
-        <Label HorizontalTextAlignment="Center" Scale="1.5" LineBreakMode="WordWrap">U kunt uw inloggegevens binnenkort in uw inbox verwachten</Label>
+        <Image Source="icon.png" />
+        <Label Style="{StaticResource LabelStyle2}">U bent aangemeld!</Label>
+        <Label Style="{StaticResource LabelStyle1}">U kunt uw inloggegevens binnenkort in uw inbox verwachten</Label>
       </StackLayout>
 
       <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand">
         <!-- bottom controls -->
-        <Button x:Name="ToLogin" Text="Terug naar inloggen" BackgroundColor="Transparent" TextColor="Black" HeightRequest="75" Clicked="ToLogin_OnClicked"/>
+        <Button Style="{StaticResource ButtonStyle2}" x:Name="ToLogin" Text="Terug naar inloggen" Clicked="ToLogin_OnClicked"/>
       </StackLayout>
     </StackLayout>
   </ScrollView>

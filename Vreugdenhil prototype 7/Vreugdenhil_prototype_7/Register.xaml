@@ -2,12 +2,12 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Vreugdenhil_prototype_7.Register">
-  <ScrollView>
+  <ScrollView Style="{StaticResource LayoutStyle1}">
     <StackLayout>
       <StackLayout Orientation="Vertical" VerticalOptions="Start">
         <!-- top controls -->
-        <Image Source="icon.png" Margin="0,20,0,10" />
-        <Label>Vul uw gegevens in om een account aan te maken test</Label>
+        <Image Source="icon.png" />
+        <Label Style="{StaticResource LabelStyle1}">Vul uw gegevens in om een account aan te maken</Label>
       </StackLayout>
 
       <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand">
@@ -15,7 +15,7 @@
         <Entry Placeholder="Naam"/>
         <Entry Placeholder="Bedrijf"/>
         <Entry Placeholder="Email"/>
-        <Button x:Name="RegisterButton" Text="Registeren" BackgroundColor="Transparent" TextColor="Black" HeightRequest="75" Clicked="RegisterButton_OnClicked"/>
+        <Button Style="{StaticResource ButtonStyle2}" x:Name="RegisterButton" Text="Registeren" Clicked="RegisterButton_OnClicked"/>
       </StackLayout>
     </StackLayout>
   </ScrollView>
